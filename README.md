@@ -11,17 +11,7 @@ Model: Implements Linear Regression using sklearn.linear_model.LinearRegression.
 Evaluation: Calculates Mean Squared Error (MSE) to measure model performance.
 
 Visualization: Plots Predicted vs Actual Prices using Matplotlib.
-
-
-# Project Structure:
-bash
-Copy
-Edit
-
-# california-housing-prediction  
-── taskdbmb_fetch_california_housing.ipynb   
-── README.md              
-
+ 
  
 # How to Run the Code?
 1. Install dependencies:
