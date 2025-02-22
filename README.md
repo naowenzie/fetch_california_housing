@@ -1,4 +1,4 @@
-California Housing Price Prediction - Linear Regression
+# California Housing Price Prediction - Linear Regression
 This project implements Linear Regression using the California Housing dataset from sklearn.datasets. The goal is to predict house prices based on various features such as median income, number of rooms, house age, and more.
 
 🚀 Features & Functionality:
