@@ -14,9 +14,9 @@ Copy
 Edit
 
 # california-housing-prediction  
- ├── california_housing.py   # Main script with model implementation  
- ├── README.md               # Project description  
- ├── requirements.txt        # Dependencies  
+── taskdbmb_fetch_california_housing.ipynb   
+── README.md              
+
  
 # How to Run the Code?
 1. Install dependencies:
