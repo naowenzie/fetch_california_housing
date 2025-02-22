@@ -2,15 +2,15 @@
 This project implements Linear Regression using the California Housing dataset from sklearn.datasets. The goal is to predict house prices based on various features such as median income, number of rooms, house age, and more.
 
 # Features & Functionality:
-✔ Dataset: Uses fetch_california_housing() from Scikit-Learn.
+Dataset: Uses fetch_california_housing() from Scikit-Learn.
 
-✔ Preprocessing: Splits data into training (80%) and testing (20%).
+Preprocessing: Splits data into training (80%) and testing (20%).
 
-✔ Model: Implements Linear Regression using sklearn.linear_model.LinearRegression.
+Model: Implements Linear Regression using sklearn.linear_model.LinearRegression.
 
-✔ Evaluation: Calculates Mean Squared Error (MSE) to measure model performance.
+Evaluation: Calculates Mean Squared Error (MSE) to measure model performance.
 
-✔ Visualization: Plots Predicted vs Actual Prices using Matplotlib.
+Visualization: Plots Predicted vs Actual Prices using Matplotlib.
 
 
 # Project Structure:
